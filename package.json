@@ -21,7 +21,7 @@
         }
     },
     "dependencies": {
-        "@babel/runtime": "^7.0.0",
+        "@babel/runtime": "^8.0.7",
         "axios": "^0.21.1",
         "babel-runtime": "^6.26.0",
         "bignumber.js": "^7.2.1",
@@ -31,8 +31,8 @@
         "injectpromise": "^1.0.0",
         "jsonwebtoken": "^8.5.1",
         "lodash": "^4.17.14",
-        "semver": "^5.6.0",
-        "validator": "^10.7.1"
+        "semver": "^7.8.5",
+        "validator": "^13.15.35"
     },
     "devDependencies": {
         "@babel/core": "^7.0.0",
@@ -51,7 +51,7 @@
         "globby": "^8.0.1",
         "grunt": "^1.0.4",
         "grunt-cli": "^1.3.1",
-        "grunt-karma": "^3.0.0",
+        "grunt-karma": "^4.0.2",
         "husky": "^1.0.0-rc.14",
         "istanbul": "^0.4.5",
         "istanbul-instrumenter-loader": "^3.0.1",
